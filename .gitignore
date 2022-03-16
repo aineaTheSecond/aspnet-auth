@@ -1,0 +1,8 @@
+*/.vs
+.vs
+.vscode
+*/.vscode
+*/bin
+*/obj
+/webapplication/webapplication/bin
+/webapplication/webapplication/obj
